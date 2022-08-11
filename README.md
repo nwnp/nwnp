@@ -14,7 +14,7 @@ Node.js 뿐만 아니라 다른 프레임워크에도 여러 관심을 두고 �
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Most Used Languages
-제일 높게 나오는 언어가 HTML, Jupyter Notebook으로 나오는데 아마 패키지들이나 
+제일 높게 나오는 언어가 HTML, Jupyter Notebook으로 나오는데 아마 
 warehouse repository(창고)에 있는 파일들 때문인것 같다... 😭
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwnp&langs_count=8)](https://github.com/nwnp/github-readme-stats)
