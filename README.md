@@ -1,7 +1,7 @@
 
 ## 2024 Target
 - Ubuntu Linux
-- SQLP
+- 자격증: SQLP, SAA, Linux master 1급
 - Docker && (Docker Swarm || Kubernetes)
 - Next.js: SEO, SSR, SSG, ISR
 - Nest.js
