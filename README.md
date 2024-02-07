@@ -9,4 +9,7 @@
 - TDD
 - Design Patterns(using Nest.js)
 
+### Project
+- Ubuntu + Next.js + Nest.js + TDD + Docker = Project(Blog or Health)
+
 ### Github 정리(240208)
