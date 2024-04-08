@@ -1,16 +1,19 @@
 
 ## 2024 Target
 - Ubuntu Linux
-- 자격증: SQLP, SAA, Linux master 1급
+- 자격증: SQLD, SQLP, Linux master 1급
 - Docker && (Docker Swarm || Kubernetes)
 - Next.js: SEO, SSR, SSG, ISR
-- Nest.js
+- Spring boot
 - Algorithms
 - TDD
-- Design Patterns(using Nest.js)
+- Design Patterns(using Java)
 
 ## Project
-- Ubuntu + Next.js + Nest.js + TDD + Docker = Project(Blog or Health)
+- Ubuntu + Next.js + Spring boot + TDD + Docker = Project(Blog or Health)
+
+## Tech stack
+- 기술 스택의 확장을 원해 Node.js에서 Spring boot로 커리어 전환
 
 ## Github 정리
 - 24.02.08
