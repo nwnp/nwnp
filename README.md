@@ -13,7 +13,7 @@
 - Ubuntu + Next.js + Spring boot + TDD + Docker = Project(Blog or Health)
 
 ## Tech stack
-- 기술 스택의 확장을 원해 Node.js에서 Spring boot로 커리어 전환
+- 기술 스택의 확장을 원하여 Node.js와 더불어 Spring boot Framework도 ~ing
 
 ## Github 정리
 - 24.02.08
